@@ -1,0 +1,4 @@
+docker login -u <username>
+
+docker pull hamdansethi/hms-backend:latest
+docker pull hamdansethi/hms-frontend:latest
